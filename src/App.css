@@ -1,0 +1,32 @@
+.middle-title {
+  font-family: "Meta", sans-serif;
+  font-variation-settings: "wght" 800, "ital" 0;
+  font-size: 60px;
+  text-align: center;
+  color: #5d3eff;
+  -webkit-text-stroke: 0;
+  text-shadow:
+    3px 3px 8px rgba(93, 62, 255, 0.4);
+  margin-bottom: 60px;
+  cursor: default;
+  transition: all 0.3s ease;
+}
+
+.middle-title:hover {
+  color: #7c55ff;
+  text-shadow:
+    5px 5px 15px rgba(124, 85, 255, 0.7);
+}
+.App {
+    padding-bottom: 250px;
+    text-align: center;
+}
+li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
